@@ -1,19 +1,14 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
 
 
-
- <!--- snake --->
-
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Manuela!;" />
+</h1>
 
 <!-- Presentation -->
 <p>
-  Olá 👋, EU sou Manuela Uma apaixonada estudante de Análise e Desenvolvimento de Sistemas do Brasil.
-  - 🌱 IAtualmente estou estudando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  Olá 👋, Eu sou uma apaixonada estudante de Análise e Desenvolvimento de Sistemas do Brasil.
+  - 🌱 IAtualmente estou estudando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego/estagio. Meu sonho é um dia trabalhar com grandes empresas do exterior com Desenvolvimento e programação.
 </p>
@@ -33,6 +28,12 @@ Back-End: Possuo uma base sólida em desenvolvimento back-end com conhecimento e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuelaisalgado)
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+
+ <!--- snake --->
+
+ <img src="https://raw.githubusercontent.com/ManuelaSalgado-sketch/ManuelaSalgado-sketch/output/snake.svg" alt="Snake animation" />  
+
+
 
 <!-- GIF -->
 <p align="left">
