@@ -7,25 +7,26 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu sou uma apaixonada estudante de Análise e Desenvolvimento de Sistemas do Brasil.
-  - 🌱 IAtualmente estou estudando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul
+  Olá 👋, Eu sou uma apaixonado estudante de Ciencias da Computação do Brasil.
+  - IAtualmente estou estudando Ciencia da informação na Universidade Cruzeiro do Sul
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego/estagio. Meu sonho é um dia trabalhar com grandes empresas do exterior com Desenvolvimento e programação.
+  -  Estou em busca da minha primeira oportunidade de emprego/estagio. Meu sonho é um dia trabalhar com grandes empresas do exterior com Desenvolvimento e programação ou cyber securiy.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻Mais sobre mim</summary>
+  <summary>Mais sobre mim</summary>
 
-  - 💬 Tenho 18 anos e atualmente moro no Brasil. Tenho conhecimento de escrita e fala intermediaria em ingles e espanhol e tenho experiência com desenvolvimento web, meus conhecimentos estão em torno de Front-End: Tenho conhecimentos práticos em tecnologias e ferramentas essenciais de front-end, como HTML, CSS e JavaScript. 
+  -  Tenho 18 anos e atualmente moro no Brasil. Tenho conhecimento de escrita e fala intermediaria em ingles e espanhol e tenho experiência com desenvolvimento web, meus conhecimentos estão em torno de Front-End: Tenho conhecimentos práticos em tecnologias e ferramentas essenciais de front-end, como HTML, CSS e JavaScript. 
 Back-End: Possuo uma base sólida em desenvolvimento back-end com conhecimento em linguagens como Python, JavaScript (Node.js) ou Java. Atualmente estou Cursando o Ensino Superior em Análise e desenvolvimento de sistemas com o onjetivo de me tornar uma desenvolvedora renomada nacionalmente e com oportunidades para trabalhos no exterior. Seguir esse sonho me ajudou a desenvolver habilidades importantes como criatividade, comunicação e praticidade na resolução de problemas.
 
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  -  Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wo0xsun/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/manuelaisalgado)
+[![LinkedIn]-www.linkedin.com/in/isaquesalgado
+
+
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
 
@@ -40,7 +41,7 @@ Back-End: Possuo uma base sólida em desenvolvimento back-end com conhecimento e
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 🔥 Skills
+##  Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
